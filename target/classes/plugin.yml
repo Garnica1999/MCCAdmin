@@ -1,0 +1,5 @@
+## YAML Template.
+name: MCCAdmin
+version: 1.0
+main: com.garnica1999.mccadmin.MCCAdmin
+api-version: 1.18
